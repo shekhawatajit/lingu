@@ -1,7 +1,4 @@
 {
     "recommendations": [
-        "msjsdiag.vscode-react-native",
-        "dsznajder.es7-react-js-snippets",
-        "esbenp.prettier-vscode"
     ]
 }

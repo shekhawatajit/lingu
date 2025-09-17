@@ -1,11 +1,9 @@
-# server.py (excerpt)
 import io, os, json, base64, wave, asyncio
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.responses import StreamingResponse
 from pydub import AudioSegment
 from dotenv import load_dotenv
-
-from azure_voice_live import AsyncAzureVoiceLive  # your pasted Azure classes
+from azure_voice_live import AsyncAzureVoiceLive  
 
 AUDIO_SR = 24000
 FRAME_MS = 20

@@ -1,7 +1,10 @@
 ### api
 
-Activate python virtual environment
-- source apienv/bin/activate
+Activate python virtual environment on Ubuntu
+- source .venv/bin/activate
+
+Activate python virtual environment on Windows
+- & D:\lingu\.venv\Scripts\Activate.ps1   
 
 Install dependencies
 
