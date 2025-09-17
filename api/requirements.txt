@@ -1,0 +1,8 @@
+fastapi
+python-dotenv
+uvicorn
+websockets
+numpy 
+python-dotenv
+sounddevice
+azure-identity
